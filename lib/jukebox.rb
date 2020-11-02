@@ -15,6 +15,10 @@ def play(songs)
     puts "Playing #{input}"
   else 
     puts "Invalid input, please try again"
+<<<<<<< HEAD
+=======
+    play(songs)
+>>>>>>> f77eb381d38ad3afb41a8bea1bf74ad071310f13
   end
 end 
 
